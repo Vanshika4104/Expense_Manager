@@ -1,6 +1,6 @@
-# ExpenseEase — Spring Boot Expense Tracker
+# Expense_Manager — Spring Boot Expense Tracker
 
-ExpenseEase is a small **Java 17 / Spring Boot** application for tracking daily expenses.
+Expense_Manager is a small **Java 17 / Spring Boot** application for tracking daily expenses.
 It exposes REST APIs for expenses and categories, and includes a monthly summary endpoint for quick reporting.
 
 The goal was to practice clean domain modeling (entities, services, repositories) and keep the setup simple so it runs out of the box.
